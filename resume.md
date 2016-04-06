@@ -7,7 +7,6 @@
 * ふりがな: にった　かずき
 *    github: https://github.com/kazukousen
 *    twitter: [@kazukousen](https://twitter.com/kazukousen)
-* 生年月日: 1995年2月28日(現在21歳)
 
 ## 学歴
 ### 国立石川工業高等専門学校 2010/4-2015/3
